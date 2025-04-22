@@ -1,0 +1,101 @@
+,EmployeeID,Name,Age,Gender,Department,Education,Experience (Years),Salary,PerformanceRating,Attrition
+0,1001,Employee_0,50,Male,IT,High School,26,116027,Medium,No
+1,1002,Employee_1,36,Male,HR,PhD,25,68494,High,No
+2,1003,Employee_2,29,Male,Marketing,High School,24,33373,Medium,No
+3,1004,Employee_3,42,Male,Marketing,PhD,13,42161,Low,Yes
+4,1005,Employee_4,40,Female,HR,PhD,7,57350,Medium,Yes
+5,1006,Employee_5,44,Male,Finance,Master,20,55351,Low,No
+6,1007,Employee_6,32,Male,IT,Master,1,118668,Medium,No
+7,1008,Employee_7,32,Male,Operations,Bachelor,8,45305,High,No
+8,1009,Employee_8,45,Female,IT,Master,16,105353,Medium,No
+9,1010,Employee_9,57,Male,IT,Bachelor,14,106797,Medium,Yes
+10,1011,Employee_10,45,Male,Finance,Bachelor,12,95953,Low,No
+11,1012,Employee_11,24,Female,IT,Bachelor,23,87458,Low,No
+12,1013,Employee_12,43,Male,HR,Bachelor,15,50358,Low,Yes
+13,1014,Employee_13,23,Male,HR,Bachelor,28,33267,Medium,No
+14,1015,Employee_14,45,Male,Marketing,High School,34,112745,High,No
+15,1016,Employee_15,51,Male,Operations,Master,2,119588,Low,No
+16,1017,Employee_16,59,Male,IT,Bachelor,32,68513,Low,No
+17,1018,Employee_17,23,Female,IT,PhD,23,56092,Medium,No
+18,1019,Employee_18,42,Female,Finance,Master,22,41338,Low,No
+19,1020,Employee_19,54,Female,HR,Master,25,30412,High,No
+20,1021,Employee_20,33,Male,Operations,Bachelor,22,37543,High,No
+21,1022,Employee_21,43,Male,Marketing,High School,22,63496,Low,No
+22,1023,Employee_22,46,Male,HR,Bachelor,6,90692,Low,Yes
+23,1024,Employee_23,48,Female,Marketing,High School,15,119084,Medium,Yes
+24,1025,Employee_24,49,Male,Finance,PhD,33,74425,High,Yes
+25,1026,Employee_25,37,Male,Finance,Master,8,68756,High,Yes
+26,1027,Employee_26,36,Female,IT,PhD,5,48888,Low,Yes
+27,1028,Employee_27,24,Male,Operations,High School,4,65735,Medium,No
+28,1029,Employee_28,58,Female,Marketing,High School,6,77295,High,No
+29,1030,Employee_29,28,Female,HR,PhD,32,113042,High,No
+30,1031,Employee_30,42,Female,Finance,High School,30,115999,Medium,No
+31,1032,Employee_31,30,Male,IT,PhD,16,47955,Medium,No
+32,1033,Employee_32,39,Male,IT,Master,13,67841,High,No
+33,1034,Employee_33,25,Male,Marketing,PhD,30,100640,High,No
+34,1035,Employee_34,46,Male,Finance,Master,19,95510,Medium,No
+35,1036,Employee_35,35,Male,Operations,PhD,17,64911,High,No
+36,1037,Employee_36,30,Male,Finance,High School,19,89031,Low,No
+37,1038,Employee_37,47,Male,Marketing,PhD,28,118726,Low,No
+38,1039,Employee_38,23,Female,Marketing,High School,26,37357,Medium,No
+39,1040,Employee_39,41,Male,Finance,PhD,26,62479,Medium,No
+40,1041,Employee_40,49,Female,Marketing,PhD,23,91476,Medium,No
+41,1042,Employee_41,28,Male,Finance,Bachelor,9,74811,Low,No
+42,1043,Employee_42,29,Male,HR,High School,12,66208,High,Yes
+43,1044,Employee_43,56,Male,Finance,Bachelor,1,50150,Low,No
+44,1045,Employee_44,35,Female,Finance,High School,1,101180,High,Yes
+45,1046,Employee_45,38,Female,Marketing,Bachelor,34,73286,Low,No
+46,1047,Employee_46,57,Female,Marketing,Master,32,98450,High,No
+47,1048,Employee_47,25,Female,IT,PhD,25,51352,Low,No
+48,1049,Employee_48,23,Male,IT,High School,1,85069,Medium,No
+49,1050,Employee_49,27,Female,HR,High School,16,44397,Low,No
+50,1051,Employee_50,25,Male,IT,PhD,5,71555,High,No
+51,1052,Employee_51,50,Male,Finance,High School,22,76959,Low,Yes
+52,1053,Employee_52,39,Female,Marketing,High School,29,30728,Low,No
+53,1054,Employee_53,47,Female,IT,Bachelor,3,80517,Low,No
+54,1055,Employee_54,55,Female,IT,High School,12,96234,Medium,No
+55,1056,Employee_55,31,Female,HR,Master,26,69954,Low,No
+56,1057,Employee_56,57,Female,HR,Master,16,77280,Medium,No
+57,1058,Employee_57,35,Female,Finance,PhD,22,109459,Medium,No
+58,1059,Employee_58,52,Female,Marketing,High School,29,46779,Low,No
+59,1060,Employee_59,36,Female,HR,PhD,14,93932,Low,No
+60,1061,Employee_60,29,Male,IT,Master,28,102936,Low,No
+61,1062,Employee_61,35,Female,Marketing,High School,5,54466,High,No
+62,1063,Employee_62,44,Female,Marketing,High School,30,66939,Low,No
+63,1064,Employee_63,42,Male,IT,PhD,5,99896,Medium,No
+64,1065,Employee_64,37,Female,HR,Master,12,65270,Low,No
+65,1066,Employee_65,39,Male,IT,High School,16,89163,High,Yes
+66,1067,Employee_66,45,Male,Marketing,PhD,26,112637,Low,No
+67,1068,Employee_67,47,Female,Operations,Master,26,81934,High,No
+68,1069,Employee_68,46,Male,Operations,PhD,21,94895,High,No
+69,1070,Employee_69,50,Male,Finance,Bachelor,33,62307,Low,No
+70,1071,Employee_70,36,Male,IT,High School,30,84098,Medium,No
+71,1072,Employee_71,22,Male,IT,Bachelor,23,90921,High,No
+72,1073,Employee_72,46,Female,Finance,Master,10,35486,Low,No
+73,1074,Employee_73,28,Male,Finance,Bachelor,5,38335,Low,No
+74,1075,Employee_74,30,Female,Finance,Bachelor,34,116900,Medium,No
+75,1076,Employee_75,45,Male,Marketing,Master,31,119112,High,No
+76,1077,Employee_76,22,Male,IT,PhD,10,41130,High,No
+77,1078,Employee_77,29,Male,Marketing,Bachelor,19,117508,Low,Yes
+78,1079,Employee_78,45,Male,Finance,PhD,32,90566,Low,Yes
+79,1080,Employee_79,32,Female,IT,Bachelor,1,96703,Medium,No
+80,1081,Employee_80,38,Female,Marketing,PhD,5,57192,Medium,No
+81,1082,Employee_81,29,Male,Marketing,Master,4,31062,High,No
+82,1083,Employee_82,56,Male,Finance,Bachelor,16,114076,High,No
+83,1084,Employee_83,56,Female,IT,Master,24,119780,Low,No
+84,1085,Employee_84,54,Male,Finance,Bachelor,16,51545,High,No
+85,1086,Employee_85,26,Male,IT,Master,2,51689,Medium,No
+86,1087,Employee_86,49,Male,Operations,Master,28,41174,Medium,No
+87,1088,Employee_87,28,Female,HR,Bachelor,32,118461,Low,No
+88,1089,Employee_88,30,Female,HR,Bachelor,27,39348,Medium,No
+89,1090,Employee_89,29,Female,HR,Bachelor,20,53714,Medium,Yes
+90,1091,Employee_90,33,Male,Finance,High School,24,68102,Medium,No
+91,1092,Employee_91,55,Male,Operations,PhD,12,104460,Medium,No
+92,1093,Employee_92,54,Female,IT,High School,33,119930,Low,No
+93,1094,Employee_93,44,Female,Marketing,High School,33,36801,Low,No
+94,1095,Employee_94,45,Female,IT,Master,12,102267,High,No
+95,1096,Employee_95,58,Female,Marketing,Bachelor,3,78136,Medium,No
+96,1097,Employee_96,56,Male,IT,PhD,1,53625,High,No
+97,1098,Employee_97,43,Female,Operations,Master,33,112873,Low,No
+98,1099,Employee_98,48,Male,Marketing,High School,10,102592,Low,No
+99,1100,Employee_99,56,Female,Finance,Bachelor,29,107052,Low,No
